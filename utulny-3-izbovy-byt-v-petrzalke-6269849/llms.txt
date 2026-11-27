@@ -1,0 +1,19 @@
+# Útulný 3-izbový byt v Petržalke
+
+> Popis: Realitná kancelária Dynasty Estates vám v exkluzívnom zastúpení majiteľa ponúka na predaj útulný 3-izbový byt na Osuskeho ulici v Petržalke v časti Háje. Byt sa nachádza na 11. poschodí bytového domu s výťahom. Celková plocha bytu je 54,97m2. Na každom poschodí sa nachádzajú 4 byty a spoločný skladový priestor, ktorý využívajú byty spoločne.
+
+## Fakta
+- Typ: byt
+- Druh nabídky: predaj
+- Dispozice: 3-izbový
+- Plocha: 54.97 m²
+- Podlaží: 11
+- Stav: Čiastočná rekonštrukcia
+- Energetická náročnost: B
+- Lokalita: Petržalka, Bratislava
+- Cena: 235 000 €
+
+## Kontakt
+- Makléř: Chiara Kucko
+- Telefon: +421914220517
+- Kancelář: Dynasty Estates
